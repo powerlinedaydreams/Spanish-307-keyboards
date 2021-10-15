@@ -1,0 +1,21 @@
+~~ Keyboard Installer ~~
+1. Double-click the "Keyboard Installer" file, an application window will open up.  
+2. Drag the "Spanish307.keylayout" file onto the application window.  
+3. Press the "Install for current user" button to install the layout on your computer.
+4. The Keyboard Installer app will automatically close.
+
+~~ System Preferences~~
+5. Open System Preferences (click the apple icon in the far upper-left of the screen and select "System Preferences..." from the menu that opens up).
+6. Open the Keyboard settings (Towards the bottom of the System Preferences window will be an icon labeled "Keyboard".  Click this.)
+7. Open the Input Sources tab (Towards the top of the System Preferences window will be 5 tabs, one of which is labeled "Input Sources".  Click this.)
+8. Click the "+" icon to add a new input source (the "+" icon is on the left side of the window.)
+9. Scroll to the very bottom of the left-hand menu and select the "Others" category.
+10.  In the right-hand menu, ensure the "Spanish Phonetics" is selected/highlighted.
+11. Press the "Add" button towards the bottom of the menu to add the input source to your system.
+
+-- Optional, but recommended --
+12. Make sure the "Show Input menu in menu bar" option is SELECTED (this is toward the bottom of the window in the Input Sources tab).
+This will put a small flag symbol in the menu bar at the top of your screen.  You can press this button to quickly switch between input sources.
+
+13. You're all done.  Look at the "layouts.png" file to see the various key combinations you need to type each symbol.  You may want to save this file somewhere on your computer.
+14. You can Eject this disk and delete the file. (Click back in the folder this file is in and press [CMD] + [E])
