@@ -1,0 +1,2 @@
+1. Run "setup.exe".
+2. Check out "layout.png" to see the location of each of the different symbols.
